@@ -3,3 +3,4 @@ scipy
 matplotlib
 Pillow
 opencv-python-headless
+need a folder called photos inside it and you should add your photos inside it in an folder
